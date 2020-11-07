@@ -1,0 +1,148 @@
+{
+  "categorias": [
+      {
+          "id": 1,
+          "titulo": "Doctor Who",
+          "cor": "#6BD1FF"
+      },
+      {
+          "id": 2,
+          "titulo": "Sherlock Holmes",
+          "cor": "#00C86F"
+      },
+      {
+          "id": 3,
+          "titulo": "Avatar - A Lenda de Aang",
+          "cor": "yellow"
+      },
+      {
+          "id": 4,
+          "titulo": "Games",
+          "cor": "red"      
+      }
+  ],
+
+  "videos": [
+      {
+          "id": 1,
+          "categoriaId": 1,
+          "titulo": "Nunca Seja Cruel, Nunca seja covarde",
+          "url": "https://www.youtube.com/watch?v=DcADLy1gCKQ"
+      },
+      {
+          "id": 2,
+          "categoriaId": 1,
+          "titulo": "Confie em min",
+          "url": "https://www.youtube.com/watch?v=YNJgGSr3nCE"
+      },
+      {
+          "id": 3,
+          "categoriaId": 1,
+          "titulo": "Amar as estrelas || River Song",
+          "url": "https://www.youtube.com/watch?v=35SSHMhS6Vc"
+      },
+      {
+          "id": 4,
+          "categoriaId": 1,
+          "titulo": "O senhor do tempo vitorioso",
+          "url": "https://www.youtube.com/watch?v=uTauKJIWix8"
+      },
+      {
+          "id": 5,
+          "categoriaId": 1,
+          "titulo": "Um velho que roubou uma caixa",
+          "url": "https://www.youtube.com/watch?v=xB3o4eMPzZo"
+      },
+      {
+          "id": 6,
+          "categoriaId": 2,
+          "titulo": "Dedução 1",
+          "url": "https://www.youtube.com/watch?v=rmvLMEgJJxw"
+      },
+      {
+          "id": 7,
+          "categoriaId": 2,
+          "titulo": "Dedução 2",
+          "url": "https://www.youtube.com/watch?v=pwQ-ftH9218"
+      },
+      {
+          "id": 8,
+          "categoriaId": 2,
+          "titulo": "Dedução 3",
+          "url": "https://www.youtube.com/watch?v=IRnWC8-uVRw"
+      },
+      {
+          "id": 9,
+          "categoriaId": 2,
+          "titulo": "Dedução 4",
+          "url": "https://www.youtube.com/watch?v=XhTD0K31Wuc"
+      },
+      {
+          "id": 10,
+          "categoriaId": 2,
+          "titulo": "Dedução 5",
+          "url": "https://www.youtube.com/watch?v=XYIcoctq1zc"
+      },
+      {
+          "id": 11,
+          "categoriaId": 3,
+          "titulo": "Aang em estado de Avatar",
+          "url": "https://www.youtube.com/watch?v=RTdL8e64olI"
+      },
+      {
+          "id": 12,
+          "categoriaId": 3,
+          "titulo": "Aang vs Yakone",
+          "url": "https://www.youtube.com/watch?v=oFv4PEkBzYA"
+      },
+      {
+          "id": 13,
+          "categoriaId": 3,
+          "titulo": "A Bandida cega",
+          "url": "https://www.youtube.com/watch?v=xEZ03PpWmgU"
+      },
+      {
+          "id": 14,
+          "categoriaId": 3,
+          "titulo": "Aang vs. Fire Lord Ozai Final Battle",
+          "url": "https://www.youtube.com/watch?v=kXShLPXfWZA&t=3s"
+      },
+      {
+          "id": 15,
+          "categoriaId": 3,
+          "titulo": "Zuko + Katara vs. Azula ",
+          "url": "https://www.youtube.com/watch?v=PRkI15fIJ1w"
+      },
+      {
+          "id": 16,
+          "categoriaId": 4,
+          "titulo": "God Of War" ,
+          "url": "https://www.youtube.com/watch?v=7RjdHsTcrsE&ab_channel=GameClips"
+      },
+      {
+          "id": 17,
+          "categoriaId": 4,
+          "titulo": "Gof Of War 5?",
+          "url": "https://www.youtube.com/watch?v=Tx2VCJcpFKg"
+      },
+      {
+          "id": 18,
+          "categoriaId": 4,
+          "titulo": "Days Gone",
+          "url": "https://www.youtube.com/watch?v=FKtaOY9lMvM"
+      },
+      {
+          "id": 19,
+          "categoriaId": 4,
+          "titulo": "Death Strange",
+          "url": "https://www.youtube.com/watch?v=KwINadGiPew"
+      },
+      {
+          "id": 20,
+          "categoriaId": 4,
+          "titulo": "Call of Duty: Modern Warfare ",
+          "url": "https://www.youtube.com/watch?v=X8Do_zXNc_E"
+      }
+
+  ]
+}
