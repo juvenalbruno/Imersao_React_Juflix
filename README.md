@@ -1,6 +1,5 @@
 <p align='center'><img width='200' src="./src/assets/img/Logo.png"/></p>
 <h1 align='center'>JuFlix - #ImersãoReact</h1>
-</p>
 
 <h3>🔖 Descrição</h3>
 <p>Projeto desenvolvido na semana da #ImersãoReact da Alura.</p>
