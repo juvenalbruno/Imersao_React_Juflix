@@ -29,4 +29,4 @@
 <br/>
 <img src="./JuFlix_prints/Juflix_003.png">
 <br/>
-<img src="./JuFlix_prints/Juflix_004.png">
+<img src="./JuFlix_prints/Juflix004.png">
