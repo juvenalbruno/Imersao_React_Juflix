@@ -23,14 +23,14 @@
     $ npm start
 
 <h3>🖼 Layout</h3>
+<h4>Janela inicial</h4>
 <img src="./JuFlix_prints/Juflix.png">
-<p>Janela inicial</p>
 <br/>
+<h4>Janela inicial</h4>
 <img src="./JuFlix_prints/Juflix_002.png">
-<p>Janela inicial</p>
 <br/>
+<h4>Janela de cadastro de Categorias</h4>
 <img src="./JuFlix_prints/Juflix_003.png">
-<p>Janela de cadastro de Categorias</p>
 <br/>
+<h4>Janela de cadastro de Video</h4>
 <img src="./JuFlix_prints/Juflix004.png">
-<p>Janela de cadastro de Video</p>
