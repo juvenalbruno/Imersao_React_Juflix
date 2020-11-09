@@ -25,8 +25,8 @@
 <h3>🖼 Layout</h3>
 <img src="./JuFlix_prints/Juflix.png">
 <br/>
-<img src="./JuFlix_prints/Juflix.png">
+<img src="./JuFlix_prints/Juflix_002.png">
 <br/>
-<img src="./JuFlix_prints/Juflix.png">
+<img src="./JuFlix_prints/Juflix_003.png">
 <br/>
-<img src="./JuFlix_prints/Juflix.png">
+<img src="./JuFlix_prints/Juflix_004.png">
